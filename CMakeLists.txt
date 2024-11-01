@@ -2,8 +2,5 @@ cmake_minimum_required(VERSION 3.16)
 
 project(CppExamples)
 
-set(CMAKE_CXX_STANDARD 17)
-set(CMAKE_CXX_STANDARD_REQUIRED ON)
-
-add_subdirectory(01-ConstructorsAndDestructors)
-add_subdirectory(02-constexpr)
+add_subdirectory(1-ConstructorsAndDestructors)
+add_subdirectory(2-SpecialDeclare)
