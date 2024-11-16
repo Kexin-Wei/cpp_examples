@@ -21,16 +21,19 @@ Reference:
 - 1-3-MoveCopyConstructor
 - 1-4-ConDestructorCallOrder
 - 1-5-delete (waiting)
-- 1-6-RuleOfThreeFive (waiting)
+- 1-6-RuleOfThreeFive
 - 1-7-VirtualDestructorInDerivedClass (waiting)
 
 # 2-SpecialDeclare
+
 - 2-1-constexpr
-- 2-2-explicit (waiting)
+- 2-2-explicit
 - 2-3-noexcept (waiting)
 
 # 3-MagicCodes
+
 - 3-1-IfAssignOneLine
 
 # 4-Inheritance
+
 - 4-1-ParallelInheritance
