@@ -23,6 +23,7 @@ Reference:
 - 1-5-delete (waiting)
 - 1-6-RuleOfThreeFive
 - 1-7-VirtualDestructorInDerivedClass (waiting)
+- 1-8-Converting constructor (waiting)
 
 # 2-SpecialDeclare
 
