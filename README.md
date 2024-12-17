@@ -38,3 +38,9 @@ Reference:
 # 4-Inheritance
 
 - 4-1-ParallelInheritance
+
+# 5-DataType
+- 5-1-Enum
+
+# 6-Threading
+
